@@ -1,0 +1,43 @@
+*{margin: 0;padding: 0;}
+
+.main{
+text-align: center;
+padding-top: 121px;
+}
+.input_add_part input{
+    padding: 8px;
+    width: 20%;
+}
+.input_add_part button{
+    padding: 10px 20px;
+    background: red;
+    color: white;
+
+}
+
+.output_area{
+    width: 473px;
+    height: 510px;
+    box-shadow: 4px 5px 10px black;
+    margin: auto;
+    background: cornsilk;
+    border-radius: 50px 50px 1px 1px;
+
+}
+.output_area h2{
+    padding-top: 24px;
+    font-size: 28px;
+    font-family: monospace;
+}
+.output_area li{
+    text-align: justify;
+    padding: 10px;
+    background: #00b4ff3b;
+    font-family: monospace;
+    border-bottom: 1px solid green;
+    
+
+}
+.listed_item_area{
+    margin-top: -23px;
+}
